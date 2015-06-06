@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">enshu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_message">このアプリを使うにはパスワードが必要です。</string>
+    <string name="input_password_label">パスワード:</string>
+    <string name="login_button_title">ログイン</string>
+    <string name="logo_label">logo</string>
+</resources>
